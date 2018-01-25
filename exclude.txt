@@ -1,0 +1,14 @@
+C:\Windows
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Users\Rich\AppData
+C:\Users\Rich\.nuget
+C:\ivms4200
+C:\Users\Rich\Documents\My Web Sites
+C:\Users\Rich\Documents\wp
+C:\Users\Rich\workspace
+C:\Python34
+C:\Users\Rich\Web
+C:\AMD
+C:\Users\All Users

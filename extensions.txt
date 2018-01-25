@@ -1,0 +1,3 @@
+﻿.jpg
+.jpeg
+.jpe
